@@ -1,4 +1,4 @@
-const endpoint ="http://localhost:8080/api/Client"                       //ojo
+const endpoint ="http://132.226.158.23:8080/api/client"                       //ojo
 
 $(document).ready(function() {
     getClient()
